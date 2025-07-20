@@ -80,4 +80,4 @@ This project is a **PDF generator script** built in Python using the `reportlab`
   
 ## 🙋‍♀️ Author
 - **Anjali Yadav**
-- 📧 GitHub
+- 📧 GitHub (https://github.com/AnjaliYadav-04)
