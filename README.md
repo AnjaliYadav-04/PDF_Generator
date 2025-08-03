@@ -6,7 +6,7 @@ This project is a **PDF generator script** built in Python using the `reportlab`
 - 📌 A product title and description  
 - 📋 A styled features table (Duration, Trainer, Level, Includes)  
 - 💰 Price section  
-- 🔽 A sample download icon (optional)
+- 🔽 A sample download icon (optional).
 
 ---
 
